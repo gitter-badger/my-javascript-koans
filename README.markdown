@@ -1,4 +1,5 @@
 # Javascript Koans - koans to learn Javascript (the good bits) #
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/endrin/my-javascript-koans?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Based on Edgecase's fantastic 
 [Ruby koans](http://github.com/edgecase/ruby_koans), the goal of the
